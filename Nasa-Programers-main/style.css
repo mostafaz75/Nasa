@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+a{
+    text-decoration: none;
+    color: #5d7fb9;
+    margin-right: 18px;
+    font-size: 12px;
+}
+
+
+.allfooter{
+    width: 92.5vw;
+    margin: 0 auto;
+    box-sizing: border-box;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+
+.footer-info img{
+    width: 86px;
+    display: inline-block;
+}
+
+
+#footer-links li{
+    font-weight: bolder;
+    margin-left:7px  ;
+    display:inline-block;
+    list-style-type:none;
+
+
+}
+
+
+
+.footer{
+    width: 100%;
+    background: rgb(0, 0, 0);
+}
+
+.footer-info span{
+    font-size: 16.5px;
+}
+
+.footer a{
+    align-self: :center;;
+}
+
+
+
+
+
+
+
+
+
+
+
+    

@@ -1,0 +1,157 @@
+#contaner {
+  width: 80vw;
+  border: 1px solid black;
+  margin: 0 auto;
+  text-align: center;
+}
+.main {
+}
+.main-left {
+  display: inline-block;
+  /* background-image: url(image/); */
+  margin: 44px;
+}
+.main-left div {
+  margin-top: -77px;
+}
+.main-left div a {
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+  background-color: #5d7fb9;
+  position: relative;
+  padding: 6px 12px;
+  opacity: 0.77;
+  display: flex;
+}
+.main-left div a a {
+  /* font-size: 19px; */
+  background-color:white;
+  color: black;
+}
+.main-left img {
+  /* height: 639px; */
+  /* width: 640px; */
+  /* width: 100%; */
+  width: 444px;
+  /* height: 763px; */
+}
+
+.main-right {
+  /* display: inline-block; */
+  width: 50%;
+}
+
+.main-right-top-img {
+  display: inline-block;
+  width: 222px;
+}
+.main-right-top-img a {
+  display: block;
+}
+
+.nasa-event {
+  background-color: #39719e;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 0 7.5px 15px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: white;
+  height: 276px;
+  width: 271px;
+  padding: 20px;
+
+  border: 1px solid black;
+}
+.nasa-event * {
+  color: black;
+  text-decoration: none;
+  font-size: 14px;
+}
+.main-top div {
+  /* display: inline-table;} */
+}
+.main-right-top-img {
+  /* position: relative; */
+}
+.main-right-top-img div {
+  display: block;
+  margin-top: -79px;
+  width: 73%;
+}
+.main-right-top-img div a {
+  text-decoration: none;
+  color: white;
+  font-size: 27px;
+  background-color: #5d7fb9;
+  padding: 6px 12px;
+}
+.main-right-top-img div p {
+  background: white;
+}
+/* .Mars-Odyssey{ */
+/* margin-top: 10px */
+
+.main-right-bottom-img div {
+  margin-top: -56px;
+}
+.main-right-bottom-img {
+  width: 222px;
+  display: inline-block;
+}
+.main-right-bottom-img div a {
+  text-decoration: none;
+  color: white;
+  font-size: 27px;
+  background-color: #5d7fb9;
+  padding: 6px 12px;
+}
+
+.main-middel p {
+  font-size: 17px;
+}
+.main-middel div {
+  display: inline-block;
+}
+.Moon-to-Mars {
+  text-decoration: none;
+  color: white;
+  font-size: 27px;
+  background-color: #5d7fb9;
+  padding: 6px 12px;
+}
+.Moon-to-Mars p {
+  font-size: 22px;
+}
+.main-middel-left a {
+  display: block;
+}
+.main-middel-middel a {
+  display: block;
+}
+.main-middel-right {
+  /* display: inline-block;  */
+}
+.main-bottom div {
+  display: inline-block;
+  width: 222px;
+}
+.main-bottom img {
+  width: 222px;
+}
+.main-bottom div {
+  display: inline-block;
+}
+.nasa-pepole a {
+  display: block;
+}
+.space-station a {
+  display: block;
+}
+.nasa-Ames a {
+  display: block;
+}
+.commerclal-space a {
+  display: block;
+}
